@@ -1,0 +1,20 @@
+[home]
+other = "Home"
+
+[posts]
+other = "Posts"
+
+[postslist]
+other = "Esperienze lavorative"
+
+[categories]
+other = "Categories"
+
+[tags]
+other = "Tags"
+
+[backtohome]
+other = "Torna alla Home"
+
+[builton]
+other = "Creata da"
